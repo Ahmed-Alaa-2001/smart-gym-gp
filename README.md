@@ -21,7 +21,7 @@ of the exercise, finally it provides feedback.`
 
 ### Result: 
 
-![image](https://github.com/Ahmed-Alaa-2001/smart-gym/assets/73764445/8144ad57-ae0d-4f04-93d0-f1f156528c62)
+![image](https://github.com/Ahmed-Alaa-2001/smart-gym-gp/assets/63450270/2a1a79a5-865a-4d1c-97d1-0d858084a9ef)
 
 
 ### 🦾 Smart Gym Objective(S): 
