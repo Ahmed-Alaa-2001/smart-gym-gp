@@ -4,7 +4,7 @@
 
 `We aim in our system to get best performance and to be used by multi-person in real-time.`
 
-![image](https://github.com/Ahmed-Alaa-2001/smart-gym/assets/73764445/c9ca3d63-382f-471d-a2c4-5d3d0454abed)
+![image](https://github.com/Ahmed-Alaa-2001/smart-gym-gp/assets/63450270/eaf67f30-de9f-4978-ad8e-958343103304)
 
 `The project provides a solution to count repetitions of a Gym exercise in real time. The method uses pose 
 estimation to track athletes, recognize their performed exercises, count the repetitions, and analyze the 
